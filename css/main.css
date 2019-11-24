@@ -19,8 +19,6 @@ nav {
   display: block;
 }
 
-
-
 *, *::before, *::after {
   box-sizing: inherit;
 }
