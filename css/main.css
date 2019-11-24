@@ -45,9 +45,10 @@ nav a {
   display: inline-block;
   background-color: #713837;
   text-align: center;
-  padding: .75em;
+  padding: .6em;
   margin: .3em;
   text-decoration: none;
+
 }
 
 nav a:hover {
