@@ -7,13 +7,13 @@ html {
 }
 
 body {
+  margin: .3em;
   font-family: Bevan, cursive, sans-serif;
   line-height: 1.5;
   background-color: #dbd6cf;
 }
 
 header {
-  margin: .3em;
   padding: .6em;
   border-radius: 5px;
   border-width: .5em;
