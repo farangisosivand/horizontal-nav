@@ -1,10 +1,11 @@
 html {
+  font-family: Bevan, cursive, sans-serif;
   background-color: #dbd6cf;
   box-sizing: border-box;
 }
 
 h1 {
-  font-family: Bevan, cursive, sans-serif;
+  font-family: sans-serif;
   color: #fff;
   padding: .5em;
   text-align: center;
