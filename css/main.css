@@ -8,14 +8,14 @@ html {
 
 body {
   margin: 0;
-  line-height: 1.5;
   background-color: #dbd6cf;
 }
 
 header {
-  margin: .3em;
-  border-radius: 5px;
-  border-width: .5em;
+  line-height: 1.5;
+  margin: 0;
+  border-radius: 0;
+  border-width: 0;
   border-color: #595652;
   background-color: #79756f;
 }
