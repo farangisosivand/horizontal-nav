@@ -10,7 +10,11 @@ body {
 }
 
 header {
-  background-color: #595652;
+  margin: .3em;
+  padding: .6em;
+  background-color: #79756f;
+  border-radius: 10px;
+  border-color: #595652;
 }
 
 h1 {
@@ -37,4 +41,10 @@ nav a {
   background-color: #713837;
   text-align: center;
   padding: .5em;
+  text-decoration: none;
+  box-shadow: #f33;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
