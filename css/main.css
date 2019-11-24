@@ -7,26 +7,19 @@ html {
 }
 
 body {
-  border-radius: 10px;
-  border-width: 10px;
-  border-color: #595652;
-  margin: 0;
+  font-family: Bevan, serif;
   background-color: #dbd6cf;
 }
 
-header {
-  color: #595652;
-  line-height: 1.5;
-  margin: 0;
-  background-color: #79756f;
-  border-top: 0;
-}
-
-h1 {
-  font-family: Bevan, serif;
+body header {
   color: #fff;
+  background-color: #595652;
+  padding: .5em;
+  margin: 0;
+  border-radius: 10px;
+  line-height: 1.5;
   text-align: center;
-  padding: 0;
+  border-color: #595652;
 }
 
 nav ul {
