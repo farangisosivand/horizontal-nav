@@ -1,6 +1,27 @@
 html {
+  font-family: 'Bevan', cursive, sans-serif;
+  background-color: #dbd6cf;
   box-sizing: border-box;
 }
+
+h1 {
+  color: #fff;
+  padding: .5em;
+  text-align: center;
+  background-color: #79756f;
+}
+
+nav {
+  background-color: #79756f;
+  color: #dbd6cf;
+  text-align: center;
+  display: block;
+}
+
+.intro {
+  text-align: left;
+}
+
 
 *, *::before, *::after {
   box-sizing: inherit;
