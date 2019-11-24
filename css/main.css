@@ -1,20 +1,24 @@
 html {
-  font-family: Bevan, cursive, sans-serif;
-  background-color: #dbd6cf;
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 body {
+  font-family: Bevan, cursive, sans-serif;
   line-height: 1.5;
-  margin: .3em;
+  background-color: #dbd6cf;
 }
 
 header {
   margin: .3em;
   padding: .6em;
-  background-color: #79756f;
-  border-radius: 10px;
+  border-radius: 5px;
+  border-width: .5em;
   border-color: #595652;
+  background-color: #79756f;
 }
 
 h1 {
@@ -42,9 +46,8 @@ nav a {
   text-align: center;
   padding: .5em;
   text-decoration: none;
-  box-shadow: #f33;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
+nav a:hover {
+  background-color: #f33;
 }
