@@ -56,8 +56,15 @@ nav a:hover {
   border-radius: 8px;
 }
 
+}
+
+.nav {
+  margin: 0;
+}
+
 h1 {
   line-height: 1.5;
   font-family: Bevan, serif;
-  margin: .3em;
+  margin: 0;
+  padding: .5em, .75em;
 }
