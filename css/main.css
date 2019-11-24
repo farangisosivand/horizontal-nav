@@ -7,19 +7,23 @@ html {
 }
 
 body {
+  margin: 0;
+  padding: 0;
   font-family: Bevan, serif;
   background-color: #dbd6cf;
+  border-width: thick;
+  border-color: #595652;
+  border-style: solid;
 }
 
 body header {
   color: #fff;
-  background-color: #595652;
+  background-color: #79756f;
   padding: .5em;
   margin: 0;
-  border-radius: 10px;
+  border-radius: 0;
   line-height: 1.5;
   text-align: center;
-  border-color: #595652;
 }
 
 nav ul {
