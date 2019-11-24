@@ -1,10 +1,15 @@
-body {
+html {
   font-family: Bevan, cursive, sans-serif;
   background-color: #dbd6cf;
   box-sizing: border-box;
 }
 
+body {
+  margin: .3em;
+}
+
 h1 {
+  font-family: Bevan, sans-serif;
   background-color: #79756f;
   color: #fff;
   text-align: center;
