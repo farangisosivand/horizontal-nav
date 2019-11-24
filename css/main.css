@@ -9,7 +9,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: Bevan, serif;
   background-color: #dbd6cf;
   border-width: thick;
   border-color: #595652;
@@ -22,7 +21,6 @@ body header {
   padding: .5em;
   margin: 0;
   border-radius: 0;
-  line-height: 1.5;
   text-align: center;
 }
 
@@ -56,4 +54,10 @@ nav a:hover {
   padding: .75em;
   margin: .3em;
   border-radius: 8px;
+}
+
+h1 {
+  line-height: 1.5;
+  font-family: Bevan, serif;
+  margin: .3em;
 }
