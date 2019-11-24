@@ -55,6 +55,7 @@ nav a:hover {
 }
 
 .p {
+  font-family: sans-serif;
   padding: .75em;
   margin: .3em;
   border-radius: 8px;
